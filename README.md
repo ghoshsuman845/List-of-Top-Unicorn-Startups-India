@@ -17,6 +17,7 @@ Y Combinator (YC) is a startup fund and program. Since 2005, YC has invested in 
 
 |Startup Name |	Industry |	Founding Year |	Unicorn Entry Year |	Profit/Loss FY22 |	Current Valuation |	Acquisitions |	Status |
 |------------ |	-------- |	------------- |	------------------ |	---------------- |	----------------- |	------------ |	------ |
+| Zoho |	SaaS |	1996  |	- |	$1 Billion |   $15 Billion |	- |	Private |
 | Zepto |	Quick Commerce |	2021 |	2023 |	-$47.1 Million |	$1.4 Billion |	- |	Private |
 | Molbio Diagnostics |	HealthTech, MedTech |	2010 |	2022 |	NA |	$1.5 Billion |	1 |	Private |
 | Tata 1mg |	HealthTech |	2015 |	2022 |	-$65 Million |	$1.25 Billion |	- |	Acquired
